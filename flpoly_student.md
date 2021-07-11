@@ -1,27 +1,23 @@
-## First Name Last Name
+## Juliana Messina (messina-j account)
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to data science 
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Pre-Calc
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Drawing 
 
-- Thing 2
+- Reading 
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+gi
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/10
