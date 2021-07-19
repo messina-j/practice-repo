@@ -23,5 +23,5 @@ I am _passionate about_:
 | **Prefix** | **Number** | _Name_                        |Credits |
 | :-----------|:------------|:--------------------------|:---------|
 | COP        | 2073.01    | Introduction to Data Science  | 3
-| MAC        | 1147.01    | Precalculus Algebra/Trigonometry | 2        |
+| MAC        | 1147.01    | Precalculus Algebra/Trigonometry | 2  | 
 
