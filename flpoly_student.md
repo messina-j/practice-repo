@@ -16,12 +16,18 @@ I am _passionate about_:
 
 - Reading 
 
-***
+_________________
 
-> Last modified: 2021/07/10
 
 | **Prefix** | **Number** | _Name_                        |Credits |
 | :-----------|:------------|:--------------------------|:---------|
 | COP        | 2073.01    | Introduction to Data Science  | 3
 | MAC        | 1147.01    | Precalculus Algebra/Trigonometry | 2  | 
+
+
+***
+
+> Last modified: 2021/07/10
+
+
 
