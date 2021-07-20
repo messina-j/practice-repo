@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Juliana Messina (messina-j account)
 
 ### Summer 2021
@@ -14,23 +13,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 I am _passionate about_: 
 
 - Drawing 
-=======
-## Juliana Messina 
-
-### 2021 
-
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
-
-- Intro to data science 
-
-- Pre-Calc
->>>>>>> 10dc1f360d0090c8a4a924a06b93ddb685056487
 
 - Reading 
 
-_________________
+________________
 
-<<<<<<< HEAD
 
 | **Prefix** | **Number** | _Name_                        |Credits |
 | :-----------|:------------|:--------------------------|:---------|
@@ -40,16 +27,7 @@ _________________
 
 ***
 
-> Last modified: 2021/07/10
+> Last modified: 2021/07/18
 
 
 
-=======
-- Reading
-
-- Drawinggit
-
-***
-
-> Last modified: 2021/07/11
->>>>>>> 10dc1f360d0090c8a4a924a06b93ddb685056487
