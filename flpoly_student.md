@@ -16,7 +16,7 @@ I am _passionate about_:
 
 - Reading 
 
-________________
+
 
 
 | **Prefix** | **Number** | _Name_                        |Credits |
@@ -25,6 +25,11 @@ ________________
 | MAC        | 1147.01    | Precalculus Algebra/Trigonometry | 2  | 
 
 
+[Repo main page](https://github.com/messina-j/practice-repo)
+
+[Repo Link](https://github.com/messina-j/practice-repo/blob/main/flpoly_student.md)
+
+![Repo Photo](https://raw.githubusercontent.com/messina-j/practice-repo/main/Screen%20Shot%202021-07-20%20at%209.51.26%20PM.png)
 
 
 ***
