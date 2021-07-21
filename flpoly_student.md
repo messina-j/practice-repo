@@ -25,6 +25,8 @@ ________________
 | MAC        | 1147.01    | Precalculus Algebra/Trigonometry | 2  | 
 
 
+
+
 ***
 
 > Last modified: 2021/07/18
