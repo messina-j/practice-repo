@@ -31,6 +31,8 @@ I am _passionate about_:
 
 ![Repo Photo](https://raw.githubusercontent.com/messina-j/practice-repo/main/Screen%20Shot%202021-07-20%20at%209.51.26%20PM.png)
 
+![Repo Photo 2](https://raw.githubusercontent.com/messina-j/practice-repo/main/Screen%20Shot%202021-07-20%20at%209.51.38%20PM.png)
+
 
 ***
 
